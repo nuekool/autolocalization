@@ -11,9 +11,9 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 print_type = sys.getfilesystemencoding()
 
-xml_path = 'D:/git_android/Android/Code/DHB/dHB/src/main/res/values/strings.xml'
-main_path = 'D:/git_android/Android/Code/DHB/dHB/src/main'
-app_context = 'A.appContext.'
+xml_path = 'D:/app/src/main/res/values/strings.xml'
+main_path = 'D:/app/src/main'
+app_context = 'X.appContext.'
 
 crt_ss = []
 names = {}
