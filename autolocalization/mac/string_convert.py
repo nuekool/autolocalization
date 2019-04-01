@@ -9,9 +9,9 @@ from xml.etree import ElementTree as ET
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-xml_path = '/Users/gudingchao/git-PDA/PDA/app/src/main/res/values/strings.xml'
-main_path = '/Users/gudingchao/git-PDA/PDA/app/src/main'
-app_context = 'SMApplication.getInstance().'
+xml_path = '/XXX/app/src/main/res/values/strings.xml'
+main_path = '/XXX/app/src/main'
+app_context = 'XXX.getInstance().'
 
 crt_ss = []
 names = {}
